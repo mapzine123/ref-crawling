@@ -21,3 +21,7 @@ ref-crolling
 `nltk`=3.8.1
 `googletrans` = 4.0.0-rc1
 `tqdm` = 4.66.1
+
+# 의존성 설치 (필요 시 터미널에 복사 / 붙여넣기)
+pip install configparser==6.0.0 requests==2.31.0 beautifulsoup4==4.12.2 nltk==3.8.1 googletrans==4.0.0-rc1 tqdm==4.66.1
+
